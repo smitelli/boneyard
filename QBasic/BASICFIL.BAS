@@ -1,0 +1,10 @@
+10 CLS
+20 RANDOMIZE TIMER
+30 A = INT(RND * 25) + 1
+40 B = INT(RND * 61) + 1
+50 C = INT(RND * 16) + 1
+60 LOCATE A, B: COLOR C
+70 PRINT "we luvvu heather!!!"
+80 FOR D = 1 TO 4000: NEXT D
+90 GOTO 10
+
