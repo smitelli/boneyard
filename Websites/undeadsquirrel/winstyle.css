@@ -1,0 +1,56 @@
+/* If there's a CSS hell, I'm going to end up there for this one. */
+
+body       { background:                 #008080;
+             scrollbar-face-color:       #008080;
+             scrollbar-shadow-color:     #000000;
+             scrollbar-highlight-color:  #00FFFF;
+             scrollbar-3dlight-color:    #00FFFF;
+             scrollbar-darkshadow-color: #000000;
+             scrollbar-track-color:      #008080;
+             scrollbar-arrow-color:      #000000; }
+
+a:link     { text-decoration:            none; 
+             font-weight:                normal;
+             cursor:                     default;
+             color:                      #000000; }
+
+a:visited  { text-decoration:            none;
+             font-weight:                normal;
+             cursor:                     default;
+             color:                      #000000; }
+
+a:active   { text-decoration:            none;
+             font-weight:                normal;
+             cursor:                     default;
+             color:                      #000000; }
+
+a:hover    { text-decoration:            none;
+             font-weight:                normal;
+             cursor:                     default;
+             color:                      #FFFFFF;
+             background-color:           #000080; }
+
+.MenuText  { font-family:                MS Sans Serif, Verdana, Arial, Helvetica, sans-serif;
+             font-size:                  8px;
+             color:                      #000000;
+             cursor:                     default;
+             font-weight:                normal;  }
+
+.TitleText { font-family:                MS Sans Serif, Verdana, Arial, Helvetica, sans-serif;
+             font-size:                  8px;
+             color:                      #FFFFFF;
+             cursor:                     default;
+             font-weight:                bold;    }
+
+.BodyText  { font-family:                MS Sans Serif, Verdana, Arial, Helvetica, sans-serif;
+             font-size:                  8px;
+             color:                      #000000;
+             cursor:                     default;
+             font-weight:                normal;  }
+
+.SmallText { font-family:                MS Sans Serif, Verdana, Arial, Helvetica, sans-serif;
+             font-size:                  8px;
+             color:                      #000000;
+             cursor:                     default;
+             font-style:                 italic;
+             font-weight:                normal;  }
