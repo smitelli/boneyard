@@ -1,0 +1,8 @@
+SCREEN 12
+FOR X% = 1 TO 480
+FOR Y% = 1 TO 640
+Z = INT(RND * 16)
+PSET (Y%, X%), Z
+NEXT Y%
+NEXT X%
+
