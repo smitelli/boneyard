@@ -1,0 +1,11 @@
+10 CLS
+20 PRINT "     O"
+30 PRINT "    O"
+40 PRINT "   O"
+50 PRINT "  O"
+60 PRINT " O"
+70 PRINT "O"
+80 PRINT ""
+90 COLOR 2
+100 PRINT "  Û"
+
