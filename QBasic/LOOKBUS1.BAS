@@ -1,0 +1,11 @@
+10 CLS
+20 X = 1
+30 COLOR 11: PRINT "Decimal", "Hexadecimal"
+40 LOCATE 4, 1: COLOR 10: PRINT "Hit "; : COLOR 12: PRINT "Esc "; : COLOR 10: PRINT "to exit.": COLOR 15
+50 DO
+60 LOCATE 2, 1: PRINT OCT$(X), HEX$(X)
+70 X = X + 1
+80 LOOP UNTIL INKEY$ = CHR$(27)
+90 LOCATE 10, 1: COLOR 14: PRINT "Thanks for using "; : COLOR 28: PRINT "LOOK/BUSY "; : COLOR 14: PRINT "Software."
+100 PRINT "": COLOR 7: END
+
