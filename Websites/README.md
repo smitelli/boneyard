@@ -1,5 +1,13 @@
 # Websites
 
+## Geom-O-Rama
+
+This was an extra credit project I did toward the end of my Geometry class in 10th grade. It was originally hosted in a subdirectory of The Undead Squirrel, at `http://www.angelfire.com/nj/undeadsquirrel/geometry`. I compiled three pages full of postulates that I must've copied from a book or somewhere, along with 12... unique... geometry word problems that I pretty obviously conceived myself.
+
+I especially enjoyed this line in the reflective paragraph: "I really enjoyed doing this project. It was different from studying for the midterms because I actually did it."
+
+I was a bold, subversive kid.
+
 ## Grandparents Day 2001
 
 When I was 15 years old, I entered a contest for the annual Grandparents Day organized by Atlantic County, New Jersey. My entry was a website titled "15 Years with My Ideal Grandfather." It was essentially a photo essay in web page form, with 20 images from my life with my grandfather and a background MIDI of Clair de Lune to round things out. I believe this was hosted on Angelfire but I don't have any record of what the URL was.
