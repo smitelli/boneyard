@@ -1,5 +1,13 @@
 # Websites
 
+## Grandparents Day 2001
+
+When I was 15 years old, I entered a contest for the annual Grandparents Day organized by Atlantic County, New Jersey. My entry was a website titled "15 Years with My Ideal Grandfather." It was essentially a photo essay in web page form, with 20 images from my life with my grandfather and a background MIDI of Clair de Lune to round things out. I believe this was hosted on Angelfire but I don't have any record of what the URL was.
+
+I ended up winning the contest's "website" category that year (honestly I don't recall if anybody else entered).
+
+The JavaScript count-up timer on the page ultimately reached 11,787 days when my grandfather died in 2018.
+
 ## The Undead Squirrel
 
 Originally hosted at `http://www.angelfire.com/nj/undeadsquirrel`, The Undead Squirrel was created as a response to my good friend Matt's website, which was predictably named `deadsquirrel` and hosted under the `nj` directory. I credit Matt with showing me how Angelfire worked, and trusting me to mess around a little bit with the HTML code of his website before I decided to create one for myself.
